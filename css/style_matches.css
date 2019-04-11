@@ -1,0 +1,163 @@
+.sub-card
+{
+    width:100%;
+    box-shadow:0 0px 4px -1px;
+    height:40px; 
+    margin:auto;
+    margin-top:-10px;
+    background-color:#fff;
+}
+
+.footer {
+  width: 100%;
+   text-align: center;
+    background: #4A4A4A;
+    color: #FFF;
+    margin-top: 30px;
+    padding-bottom: 20px;
+    position: relative;
+}
+
+.footer-logo{
+      width: 112px;
+    height: 23px;
+    margin-top: 50px;
+    margin-left: 60%;
+}
+
+.text{
+  font-size: 16px;
+  font-weight: bold;
+  line-height: 5;
+}
+
+
+
+
+
+.icon1{
+  height: 30px;
+    width: 40px;
+    color: #fff;
+    font-size: 15px;
+}
+
+.icon2{
+  height: 30px;
+    width: 40px;
+    color: #fff;
+    font-size: 15px;
+}
+
+.list{
+  color: #fff;
+  font-size: 14px;
+}
+
+.matches a{
+	font-size: 16px;
+    text-decoration: none;
+    color: #222;
+    margin-left: 60px;
+    line-height: 2.5;
+}
+
+.heading-card{
+	width:100%;
+    box-shadow:0 0px 4px -1px;
+    height:40px; 
+    margin:auto;
+    margin-top:-10px;
+    background-color:#fff;
+}
+
+.heading{
+	margin: 0;
+    font-size: 18px;
+    line-height: 20px;
+    
+    padding: 10px 16px;
+    margin-left: 20px;
+    color: #222;
+
+}
+
+.match-card
+{
+    width:100%;
+    box-shadow:0 0px 4px -1px;
+    height:auto; 
+    margin:auto;
+    margin-top:8px;
+    background-color:#fff;
+}
+
+.title a{
+	margin: 0;
+    font-size: 16px;
+    line-height: 2.5;
+    text-decoration: none;
+    color: #0015ff;
+    margin-left: 35px;
+    font-weight: bold;
+}
+
+.match-info a{
+	text-decoration: none;
+}
+
+.status {
+	padding: 6px 12px;
+    border-radius: 4px;
+    color: #fff;
+    background-color: green;
+    
+    margin-left: 35px;
+    line-height: 3;
+    font-size: 14px;
+
+}
+
+.date-start{
+	font-size: 14px;
+    color: #222;
+    margin-left: 8px;
+}
+
+.sub-title{
+	font-size: 14px;
+    color: #222;
+    margin-left: 8px;
+}
+
+.team-logo{
+	width: 35px;
+    height: 35px;
+    margin-left: 35px;
+    margin-top: 5px;
+}
+
+.team-name{
+	color: #222;
+    font-size: 15px;
+    
+    margin-inline-start: 96px;
+    margin-inline-end: 240px;
+    margin-top: -30px;
+}
+
+.full-score{
+color: #222;
+    font-size: 14px;
+    float: right;
+    
+    margin-right: 55px;
+    margin-top: -20px;
+}
+
+.short-para{
+	    color: #777;
+    margin-top: 20px;
+    margin-left: 35px;
+    font-size: 15px;
+}

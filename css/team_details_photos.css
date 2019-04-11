@@ -1,0 +1,160 @@
+.sub-card
+{
+    width:100%;
+    box-shadow:0 0px 4px -1px;
+    height:auto; 
+    margin:auto;
+    margin-top:-14px;
+    background-color:#fff;
+}
+
+.footer 
+{
+    width: 100%;
+    text-align: center;
+    background: #4A4A4A;
+    color: #FFF;
+    margin-top: 30px;
+    padding-bottom: 20px;
+    position: relative;
+}
+
+.footer-logo
+{
+    width: 112px;
+    height: 23px;
+    margin-top: 50px;
+    margin-left: 60%;
+}
+
+.text
+{
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 5;
+}
+
+.icon1
+{
+    height: 30px;
+    width: 40px;
+    color: #fff;
+    font-size: 15px;
+}
+
+.icon2
+{
+    height: 30px;
+    width: 40px;
+    color: #fff;
+    font-size: 15px;
+}
+
+.list
+{
+    color: #fff;
+    font-size: 14px;
+}
+
+.heading{
+	font-size: 26px;
+	padding-top: 15px;
+	color: #222;
+	font-weight: bold;
+	margin-left: 25px;
+}
+
+.lower
+{
+    padding-top: 15px;
+    margin-left: 25px;
+     
+}
+
+.lower a
+{
+    font-size: 16;
+    text-decoration: none;
+    color: #222;
+}
+
+/*.active 
+{
+    font-weight: bold;
+    color:#028062;
+    border-bottom: 3px solid #222;
+    padding-bottom: 6px;
+    
+}*/
+
+.latest
+{
+    margin: 0;
+    padding: 5px 0;
+    color: #009270;
+    font-size: 18px;
+    margin-block-start: 280px;
+    margin-block-end: 0;
+    margin-inline-start: -125px;
+    margin-inline-end: 0;
+    font-weight: bold;
+    line-height: 1.5;
+}
+
+.image1
+{
+    width: 120px;
+    height: 90px;
+    border-radius: 4px;
+    margin-left: -126px;
+    margin-top: -20px;
+
+
+}
+
+.heading2
+{
+    margin: 0;
+    color: #222;
+    padding-bottom: 12px;
+    font-size: 15px;
+    margin-block-start: -20px;
+    margin-block-end: 0;
+    margin-inline-start: -75px;
+    margin-inline-end: 24px;
+    line-height: 1.5;
+
+}
+
+.heading2 a
+{
+    text-decoration:none;
+    color:#222;
+    line-height:1.5;
+}
+
+.heading2 a:hover
+{
+    text-decoration:underline;
+}
+
+.time
+{
+    color:#666;
+    font-size:13px;
+    margin-left: -75px;
+ } 
+
+.button 
+{
+    border-radius: 4px;
+    background-color: #009270;
+    color: #fff;
+    margin-left: 30px;
+    margin-top: 15px;
+    font-size: 15px;
+    width: 120px;
+    height: 40px;
+    border: 0px;
+    font-weight: bold;
+}  

@@ -1,0 +1,137 @@
+.sub-card
+{
+    width:100%;
+    box-shadow:0 0px 4px -1px;
+    height:auto; 
+    margin:auto;
+    margin-top:-14px;
+    background-color:#fff;
+}
+
+.footer 
+{
+    width: 100%;
+    text-align: center;
+    background: #4A4A4A;
+    color: #FFF;
+    margin-top: 30px;
+    padding-bottom: 20px;
+    position: relative;
+}
+
+.footer-logo
+{
+    width: 112px;
+    height: 23px;
+    margin-top: 50px;
+    margin-left: 60%;
+}
+
+.text
+{
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 5;
+}
+
+.icon1
+{
+    height: 30px;
+    width: 40px;
+    color: #fff;
+    font-size: 15px;
+}
+
+.icon2
+{
+    height: 30px;
+    width: 40px;
+    color: #fff;
+    font-size: 15px;
+}
+
+.list
+{
+    color: #fff;
+    font-size: 14px;
+}
+
+.heading{
+	font-size: 26px;
+	padding-top: 15px;
+	color: #222;
+	font-weight: bold;
+	margin-left: 25px;
+}
+
+.lower
+{
+    padding-top: 15px;
+    margin-left: 25px;
+     
+}
+
+.lower a
+{
+    font-size: 16;
+    text-decoration: none;
+    color: #222;
+}
+
+/*.active 
+{
+    font-weight: bold;
+    color:#028062;
+    border-bottom: 3px solid #222;
+    padding-bottom: 6px;
+    
+}*/
+
+.image
+{
+    width: 220px;
+    height: 160px;
+    border-radius: 5px;
+    margin-left: 25px;
+
+}
+
+.heading1
+{
+    margin: 0;
+    padding-bottom: 5px;
+    font-size: 20px;
+    margin-inline-start: -20px;
+    margin-inline-end: 8px;
+}
+
+.heading1 a
+{
+    text-decoration:none;
+    color:#222;
+    font-weight:bold;
+    line-height:1.5;
+}
+
+.heading1 a:hover
+{
+    text-decoration:underline;
+}
+
+
+.para
+{
+    color: #666;
+    margin-bottom: 5px;
+    font-size: 15px;
+    line-height: 1.5;
+    margin-inline-start: -20px;
+    margin-inline-end: 15px;
+}
+
+.time
+{
+    color: #666;
+    font-size: 13px;
+    margin-inline-start: -20px;
+}

@@ -1,0 +1,80 @@
+.sub-card
+{
+    width:100%;
+    box-shadow:0 0px 4px -1px;
+    height:100px; 
+    margin:auto;
+    margin-top:-10px;
+    background-color:#fff;
+}
+
+.footer {
+  width: 100%;
+   text-align: center;
+    background: #4A4A4A;
+    color: #FFF;
+    margin-top: 30px;
+    padding-bottom: 20px;
+    position: relative;
+}
+
+.footer-logo{
+      width: 112px;
+    height: 23px;
+    margin-top: 50px;
+    margin-left: 60%;
+}
+
+.text{
+  font-size: 16px;
+  font-weight: bold;
+  line-height: 5;
+}
+
+
+
+
+
+.icon1{
+  height: 30px;
+    width: 40px;
+    color: #fff;
+    font-size: 15px;
+}
+
+.icon2{
+  height: 30px;
+    width: 40px;
+    color: #fff;
+    font-size: 15px;
+}
+
+.list{
+  color: #fff;
+  font-size: 14px;
+}
+
+.title{
+font-size: 22px;
+    margin-left: 20px;
+    font-weight: bold;
+}
+
+.status {
+ padding: 5px 12px;
+    border-radius: 4px;
+    color: #fff;
+    background-color: green;
+    margin-left: 40px;
+    line-height: 3;
+    font-size: 14px;
+    display: inline;
+
+}
+
+.match-info a{
+  font-weight: bold;
+    color: #1866DB;
+    font-size: 15px;
+    margin-left: 5px;
+}

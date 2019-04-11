@@ -1,0 +1,144 @@
+.sub-card
+{
+    width:100%;
+    box-shadow:0 0px 4px -1px;
+    height:auto; 
+    margin:auto;
+    margin-top:6px;
+    background-color:#fff;
+}
+
+.heading
+{
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 8px;
+    margin-left: 10px;
+    
+}
+
+.all-videos
+{
+    line-height:4;
+    color:black;
+    font-weight:bold;
+    margin-left: 10px;
+    font-size: 16px;
+}
+
+.heading1
+{
+    font-size: 22px;
+    margin-top: 20px;
+    font-weight: bold;
+    margin-left: 36px;
+    margin-bottom: 1px;
+}
+
+.button 
+{
+    float: right;
+    border-radius: 2px;
+    background-color: #009270;
+    color: #fff;
+    margin-right: 45px;
+    font-size: 14px;
+    width: 90px;
+    height: 36px;
+    border:0px;
+}
+
+.image
+{
+    width: 225px;
+    height: 135px;
+    border-radius: 4px;
+    margin-left: 32px;
+    margin-top: 20px;
+}
+
+.main a
+{
+    text-decoration: none;
+}
+
+.title
+{
+    font-size: 15px;
+    color: #222;
+    font-weight: bold;
+    margin-block-start: 0em;
+    margin-block-end: 0em;
+    margin-inline-start: 32px;
+    margin-inline-end: 36px;
+    margin-top: -12px;
+    margin-bottom: 10px;
+ }
+
+.play-image
+{
+    margin-left: 118px;
+    margin-top: -155px;
+    width: 35px
+}
+
+.footer 
+{
+    width: 100%;
+    text-align: center;
+    background: #4A4A4A;
+    color: #FFF;
+    margin-top: 30px;
+    padding-bottom: 20px;
+    position: relative;
+}
+
+.footer-logo
+{
+    width: 112px;
+    height: 23px;
+    margin-top: 50px;
+    margin-left: 60%;
+}
+
+.text
+{
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 5;
+}
+
+.icon1
+{
+    height: 30px;
+    width: 40px;
+    color: #fff;
+    font-size: 15px;
+}
+
+.icon2
+{
+    height: 30px;
+    width: 40px;
+    color: #fff;
+    font-size: 15px;
+}
+
+.list
+{
+    color: #fff;
+    font-size: 14px;
+}
+
+.time
+{
+    color:#666;
+    font-size:13px;
+    margin-left: 32px;
+    
+}
+
+
+
+
+

@@ -1,0 +1,155 @@
+.sub-card
+{
+    width:100%;
+    box-shadow:0 0px 4px -1px;
+    height:auto; 
+    margin:auto;
+    margin-top:6px;
+    background-color:#fff;
+}
+
+.all-stories
+{
+    line-height:4;
+    color:black;
+    font-weight:bold;
+    font-size: 16px;
+}
+
+.heading
+{
+    font-size: 26px;
+    margin-bottom: 20px;
+    margin-left: 12px;
+    margin-top: 25px;
+    font-weight: bold;
+}
+
+.image
+{
+    width: 220px;
+    height: 160px;
+    border-radius: 5px;
+    margin-left: 15px;
+
+}
+
+.heading1
+{
+    margin: 0;
+    padding-bottom: 5px;
+    font-size: 20px;
+    margin-inline-start: -20px;
+    margin-inline-end: 7px;
+}
+
+.heading1 a
+{
+    text-decoration:none;
+    color:#222;
+    font-weight:bold;
+    line-height:1.5;
+}
+
+.heading1 a:hover
+{
+    text-decoration:underline;
+}
+
+
+.para
+{
+    color: #666;
+    margin-bottom: 5px;
+    font-size: 15px;
+    line-height: 1.5;
+    margin-inline-start: -20px;
+    margin-inline-end: -32px;
+}
+
+.time
+{
+    color: #666;
+    font-size: 13px;
+    margin-inline-start: -20px;
+}
+
+.border
+{
+    
+    margin-block-start: 0em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 6px;
+    margin-inline-end: 400px;
+    padding-bottom: 10px;
+}
+
+#category
+{
+    color: #1866DB;
+    font-size: 14px;
+    margin-inline-start: -20px;
+
+}
+
+.dot
+{
+    font-size:12px;
+    vertical-align: 2px;
+    color: #130d0d;
+    line-height: 1.5;
+}
+
+.topic
+{
+    font-size: 14px;
+    color: #666;
+}
+
+.footer 
+{
+    width: 100%;
+    text-align: center;
+    background: #4A4A4A;
+    color: #FFF;
+    margin-top: 30px;
+    padding-bottom: 20px;
+    position: relative;
+}
+
+.footer-logo
+{
+    width: 112px;
+    height: 23px;
+    margin-top: 50px;
+    margin-left: 60%;
+}
+
+.text
+{
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 5;
+}
+
+.icon1
+{
+    height: 30px;
+    width: 40px;
+    color: #fff;
+    font-size: 15px;
+}
+
+.icon2
+{
+    height: 30px;
+    width: 40px;
+    color: #fff;
+    font-size: 15px;
+}
+
+.list
+{
+    color: #fff;
+    font-size: 14px;
+}
